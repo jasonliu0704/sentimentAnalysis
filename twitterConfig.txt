@@ -1,0 +1,5 @@
+[twitter]
+consumer_key = "Y1EuSpijlpNl8agVXMzHeYqR5"
+consumer_secret = "	JAAEc3bzS69o9Z7fcFPfJvPzJZcc4bHYiVr2OIsMcFAlGYSVzC"
+access_token = "1711804872-a67e75HPkZe4GGbT9ZXmDXyLr6tNtDveHj7bviG"
+access_token_secret = "NjMi4Pu6ON3xALV23rUJpUA7TPTVNi19xvrhKDS9cGZWv"
